@@ -1,2 +1,1 @@
-new-thing
-=========
+Project description
